@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Bakytzhan 👋
 
-<!--
-**bakos1k7/bakos1k7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Aspiring Penetration Tester
 
-Here are some ideas to get you started:
+🎓 Cybersecurity Enthusiast | Astana IT University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Ethical Hacking, Network Security
+and Web Application Penetration Testing.
+
+### 🔧 Technical Skills
+- Operating Systems: Kali Linux, Ubuntu, Windows
+- Programming: Python, Bash, Java, SQL
+- Networking: TCP/IP, DNS, HTTP, Wireshark
+- Security Tools: Nmap, Burp Suite, Gobuster
+- Web Security: OWASP Top 10, SQL Injection, XSS
+
+### 📂 My Projects
+- Python Security Tools
+- Network Scanning Labs
+- Web Security Writeups
+- CTF Writeups
+- Linux Security Labs
+
+### 🎯 Current Goals
+- Build practical cybersecurity skills
+- Complete ethical hacking labs
+- Develop a strong pentesting portfolio
+- Get my first Junior Pentester job
